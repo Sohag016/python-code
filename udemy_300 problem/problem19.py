@@ -1,0 +1,5 @@
+a=int(input('Enter a number='))
+b=int(input('enter b number'))
+c=int (input('Enter c number'))
+result=(a+b+c)*(a/b)*(2*a+3*b)
+print('result=',str(result))
